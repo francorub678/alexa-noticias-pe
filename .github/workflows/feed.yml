@@ -2,8 +2,8 @@ name: Actualizar feed de noticias
 
 on:
   schedule:
-    # 11:00 UTC = 06:00 en Perú (UTC-5). Corre todos los días.
-    - cron: "0 11 * * *"
+    # Cada 4 horas (UTC). En Perú (UTC-5): 03:00, 07:00, 11:00, 15:00, 19:00, 23:00.
+    - cron: "0 */4 * * *"
   workflow_dispatch: {}   # permite ejecutarlo a mano desde la pestaña Actions
 
 permissions:
