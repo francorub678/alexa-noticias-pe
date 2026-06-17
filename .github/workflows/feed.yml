@@ -1,0 +1,43 @@
+name: Actualizar feed de noticias
+
+on:
+  schedule:
+    # 11:00 UTC = 06:00 en Perú (UTC-5). Corre todos los días.
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}   # permite ejecutarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write   # necesario para hacer commit del feed.json
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Generar feed (con resumen IA)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generar_feed.py
+
+      - name: Publicar si cambió
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet docs/feed.json; then
+            git add docs/feed.json
+            git commit -m "feed: actualización automática $(date -u +%Y-%m-%d_%H:%M)Z"
+            git push
+            echo "Feed publicado."
+          else
+            echo "Sin cambios en el feed."
+          fi
