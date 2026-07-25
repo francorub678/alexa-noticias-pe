@@ -1,37 +1,37 @@
 [
   {
     "uid": "top-pe-20260725-0",
-    "updateDate": "2026-07-25T16:41:20.0Z",
+    "updateDate": "2026-07-25T20:37:49.0Z",
     "titleText": "Top Perú 25/07 · RPP",
-    "mainText": "Se espera que casi dos millones de peruanos viajen durante Fiestas Patrias 2026, con Cusco, Arequipa e Ica como principales destinos y gastos promedio de 547 soles.",
+    "mainText": "Casi dos millones de peruanos viajarán durante Fiestas Patrias 2026, con Cusco, Arequipa e Ica como principales destinos, dejando un gasto promedio de quinientos cuarenta y siete soles.",
     "redirectionUrl": "https://rpp.pe/economia/economia/fiestas-patrias-2026-casi-2-millones-de-peruanos-viajaran-en-feriado-largo-cusco-arequipa-e-ica-lideran-la-preferencia-noticia-1697760"
   },
   {
     "uid": "top-pe-20260725-1",
-    "updateDate": "2026-07-25T16:41:19.0Z",
+    "updateDate": "2026-07-25T20:37:48.0Z",
     "titleText": "Top Perú 25/07 · Andina",
-    "mainText": "La ATU reforzará controles al transporte turístico durante Fiestas Patrias para garantizar la seguridad de viajeros en Lima y Callao.",
-    "redirectionUrl": "https://andina.pe/agencia/noticia-fiestas-patrias-atu-refuerza-control-al-transporte-turistico-durante-los-feriados-1085014.aspx"
+    "mainText": "La Laguna Pacucha en Apurímac, ubicada cerca de Andahuaylas, es considerada una de las más grandes y bellas del país, con leyendas de una ciudad perdida bajo sus aguas.",
+    "redirectionUrl": "https://andina.pe/agencia/noticia-pacucha-conoce-legendaria-lagua-dorada-apurimac-cautiva-a-los-turistas-1085045.aspx"
   },
   {
     "uid": "top-pe-20260725-2",
-    "updateDate": "2026-07-25T16:41:18.0Z",
-    "titleText": "Top Perú 25/07 · Andina",
-    "mainText": "Sunarp y el programa PAIS firman convenio para llevar servicios registrales a comunidades rurales y población en pobreza extrema.",
-    "redirectionUrl": "https://andina.pe/agencia/noticia-sunarp-y-programa-pais-facilitaran-acceso-a-servicios-registrales-comunidades-rurales-1085011.aspx"
-  },
-  {
-    "uid": "top-pe-20260725-3",
-    "updateDate": "2026-07-25T16:41:17.0Z",
+    "updateDate": "2026-07-25T20:37:47.0Z",
     "titleText": "Top Perú 25/07 · RPP",
-    "mainText": "Colombia y Chile juegan hoy la semifinal de la Copa Sudamericana de Vóley en el Coliseo Dibós.",
+    "mainText": "Colombia venció a Chile tres a cero en semifinales y se clasificó para la final de la Copa Sudamericana de Vóley dos mil veintiséis.",
     "redirectionUrl": "https://rpp.pe/voley/mas-voley/colombia-vs-chile-en-vivo-copa-sudamericana-de-voley-2026-semifinal-horario-y-canales-tv-latina-vivo-noticia-1698731"
   },
   {
+    "uid": "top-pe-20260725-3",
+    "updateDate": "2026-07-25T20:37:46.0Z",
+    "titleText": "Top Perú 25/07 · Gestión",
+    "mainText": "Rivers venció a Roro en su combate de la Velada del Año 6, disputado en el Estadio La Cartuja de Sevilla, España.",
+    "redirectionUrl": "https://gestion.pe/mix/sports/quien-gano-rivers-vs-roro-resultado-final-del-combate-nnda-nnrt-noticia/"
+  },
+  {
     "uid": "top-pe-20260725-4",
-    "updateDate": "2026-07-25T16:41:16.0Z",
-    "titleText": "Top Perú 25/07 · RPP",
-    "mainText": "Los analistas políticos destacan que Perú enfrenta retos institucionales críticos para 2026-2031 debido a la desconfianza ciudadana y la polarización política que debilita las instituciones democráticas.",
-    "redirectionUrl": "https://rpp.pe/politica/gobierno/cuales-son-los-principales-retos-a-nivel-institucional-frente-a-la-polarizacion-politica-de-cara-al-periodo-2026-2031-noticia-1698809"
+    "updateDate": "2026-07-25T20:37:45.0Z",
+    "titleText": "Top Perú 25/07 · Gestión",
+    "mainText": "Plex venció a Fernanfloo en el combate coestelar de La Velada del Año 6, el evento de boxeo organizado por Ibai Llanos.",
+    "redirectionUrl": "https://gestion.pe/mix/sports/quien-gano-yo-soy-plex-vs-fernanfloo-resultado-final-del-combate-nnda-nnrt-noticia/"
   }
 ]
