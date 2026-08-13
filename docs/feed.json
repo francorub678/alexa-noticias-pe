@@ -1,37 +1,37 @@
 [
   {
     "uid": "top-pe-20260813-0",
-    "updateDate": "2026-08-13T05:25:01.0Z",
+    "updateDate": "2026-08-13T08:58:50.0Z",
+    "titleText": "Top Perú 13/08 · RPP",
+    "mainText": "Un pasajero resultó herido en un ataque armado contra un mototaxi en Comas, donde el conductor denuncia extorsiones que no reporta por miedo.",
+    "redirectionUrl": "https://rpp.pe/lima/policiales/comas-pasajero-fue-herido-en-ataque-armado-a-un-mototaxi-en-pleno-cruce-de-avenidas-belaunde-y-universitaria-noticia-1701276"
+  },
+  {
+    "uid": "top-pe-20260813-1",
+    "updateDate": "2026-08-13T08:58:49.0Z",
     "titleText": "Top Perú 13/08 · Andina",
     "mainText": "El Senado de la República inicia hoy la instalación de sus comisiones ordinarias legislativas y no legislativas para el período 2026-2027.",
     "redirectionUrl": "https://andina.pe/agencia/noticia-congreso-senado-inicia-hoy-instalacion-sus-comisiones-ordinarias-1087330.aspx"
   },
   {
-    "uid": "top-pe-20260813-1",
-    "updateDate": "2026-08-13T05:25:00.0Z",
+    "uid": "top-pe-20260813-2",
+    "updateDate": "2026-08-13T08:58:48.0Z",
     "titleText": "Top Perú 13/08 · RPP",
-    "mainText": "Transportistas en Ucayali desbloquean parcialmente la carretera Federico Basadre, pero continúan con protestas para exigir sus demandas regionales.",
+    "mainText": "Transportistas en Ucayali desbloquearon parcialmente la carretera Federico Basadre, pero los manifestantes mantienen su protesta regional activa.",
     "redirectionUrl": "https://rpp.pe/peru/ucayali/ucayali-transportistas-desbloquean-kilometro-6-de-la-carretera-federico-basadre-noticia-1701273"
   },
   {
-    "uid": "top-pe-20260813-2",
-    "updateDate": "2026-08-13T05:24:59.0Z",
+    "uid": "top-pe-20260813-3",
+    "updateDate": "2026-08-13T08:58:47.0Z",
     "titleText": "Top Perú 13/08 · RPP",
     "mainText": "En Bagua, Amazonas, transportistas y pobladores awajún se enfrentaron durante el segundo día de paro exigiendo reactivación de obras escolares y viales.",
     "redirectionUrl": "https://rpp.pe/peru/amazonas/bloqueo-de-carreteras-en-bagua-enfrentamientos-en-el-iv-eje-vial-por-paro-awajun-noticia-1701275"
   },
   {
-    "uid": "top-pe-20260813-3",
-    "updateDate": "2026-08-13T05:24:58.0Z",
-    "titleText": "Top Perú 13/08 · Andina",
-    "mainText": "El Ministerio de Energía y Minas recuerda que vence el 20 de agosto el plazo para presentar el Plan Ambiental Detallado en el sector eléctrico.",
-    "redirectionUrl": "https://andina.pe/agencia/noticia-sector-electrico-20-agosto-vence-plazo-para-presentar-plan-ambiental-detallado-1087367.aspx"
-  },
-  {
     "uid": "top-pe-20260813-4",
-    "updateDate": "2026-08-13T05:24:57.0Z",
+    "updateDate": "2026-08-13T08:58:46.0Z",
     "titleText": "Top Perú 13/08 · Andina",
-    "mainText": "El próximo viernes catorce de agosto a las tres de la tarde sonarán las bocinas del II Simulacro Nacional Multipeligro para preparar a la población ante emergencias.",
-    "redirectionUrl": "https://andina.pe/agencia/noticia-la-punta-este-viernes-sonaran-las-bocinas-para-ii-simulacro-nacional-multipeligro-1087365.aspx"
+    "mainText": "El Ministerio de Energía y Minas recuerda que el 20 de agosto vence el plazo para presentar el Plan Ambiental Detallado en el sector eléctrico.",
+    "redirectionUrl": "https://andina.pe/agencia/noticia-sector-electrico-20-agosto-vence-plazo-para-presentar-plan-ambiental-detallado-1087367.aspx"
   }
 ]
