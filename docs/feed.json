@@ -1,37 +1,37 @@
 [
   {
     "uid": "top-pe-20260819-0",
-    "updateDate": "2026-08-19T04:23:29.0Z",
+    "updateDate": "2026-08-19T08:20:33.0Z",
     "titleText": "Top Perú 19/08 · RPP",
-    "mainText": "El Estado ofrece préstamos de hasta cien mil soles para reforzar viviendas ante sismos, con evaluación flexible incluso para personas en Infocorp.",
+    "mainText": "El Estado ofrece préstamos desde quince mil soles para reforzar viviendas ante sismos, con evaluación flexible incluso para personas en Infocorp.",
     "redirectionUrl": "https://rpp.pe/campanas/publirreportaje/tu-casa-esta-preparada-para-un-sismo-accede-a-un-prestamo-de-s-100-mil-y-refuerza-tu-hogar-noticia-1702322"
   },
   {
     "uid": "top-pe-20260819-1",
-    "updateDate": "2026-08-19T04:23:28.0Z",
-    "titleText": "Top Perú 19/08 · Andina",
-    "mainText": "El Gobierno aprobó una nueva escala salarial para empleados del Poder Judicial, con sueldos entre 4,100 y 15,600 soles mensuales.",
-    "redirectionUrl": "https://andina.pe/agencia/noticia-aprueban-nueva-escala-remunerativa-del-poder-judicial-para-personal-regimen-laboral-728-1088193.aspx"
-  },
-  {
-    "uid": "top-pe-20260819-2",
-    "updateDate": "2026-08-19T04:23:27.0Z",
-    "titleText": "Top Perú 19/08 · Andina",
-    "mainText": "El Ministerio de Justicia brindó asistencia legal gratuita a más de diecisiete mil personas en una campaña nacional a través de sus direcciones distritales.",
-    "redirectionUrl": "https://andina.pe/agencia/noticia-minjusdh-mas-17-mil-personas-recibieron-asistencia-legal-gratuita-1088184.aspx"
-  },
-  {
-    "uid": "top-pe-20260819-3",
-    "updateDate": "2026-08-19T04:23:26.0Z",
+    "updateDate": "2026-08-19T08:20:32.0Z",
     "titleText": "Top Perú 19/08 · Infobae Perú",
-    "mainText": "En el sorteo de Kábala del martes dieciocho de agosto se definieron los ganadores; revise si fue usted el afortunado con el premio mayor.",
+    "mainText": "Los números ganadores del sorteo de Kábala del dieciocho de agosto ya están disponibles para que verifiques tu jugada.",
     "redirectionUrl": "https://www.infobae.com/peru/2026/08/19/kabala-del-martes-18-de-agosto-ganadores-del-ultimo-sorteo/"
   },
   {
-    "uid": "top-pe-20260819-4",
-    "updateDate": "2026-08-19T04:23:25.0Z",
+    "uid": "top-pe-20260819-2",
+    "updateDate": "2026-08-19T08:20:31.0Z",
     "titleText": "Top Perú 19/08 · Andina",
-    "mainText": "El Reniec permite solicitar duplicado o renovación de DNI, así como otros trámites de registros civiles a través de su plataforma web cumpliendo requisitos específicos.",
-    "redirectionUrl": "https://andina.pe/agencia/noticia-reniec-tramites-dni-y-registros-civiles-puedes-realizar-via-web-1088188.aspx"
+    "mainText": "El Fenómeno El Niño provoca lluvias intensas que ponen en riesgo los cultivos, la producción agrícola y los ingresos de los agricultores peruanos.",
+    "redirectionUrl": "https://andina.pe/agencia/noticia-como-fenomeno-nino-afecta-a-agricultura-peruana-1088128.aspx"
+  },
+  {
+    "uid": "top-pe-20260819-3",
+    "updateDate": "2026-08-19T08:20:30.0Z",
+    "titleText": "Top Perú 19/08 · Infobae Perú",
+    "mainText": "La organizadora de la boda de Curwen y Carla Campos Salazar confirmó que los planes seguían adelante la mañana después del ampay.",
+    "redirectionUrl": "https://www.infobae.com/peru/2026/08/19/curwen-wedding-planner-de-curwen-revela-que-boda-con-carla-campos-salazar-seguia-en-pie-tras-ampay-en-la-manana-hable-con-ellos/"
+  },
+  {
+    "uid": "top-pe-20260819-4",
+    "updateDate": "2026-08-19T08:20:29.0Z",
+    "titleText": "Top Perú 19/08 · Infobae Perú",
+    "mainText": "Curwen decidió terminar su relación con Carla Campos después de que Magaly difundiera imágenes de ella con su amigo en una discoteca de Miraflores.",
+    "redirectionUrl": "https://www.infobae.com/peru/2026/08/18/curwen-toma-radical-decision-tras-ampay-de-su-novia-carla-campos-con-su-amigo-en-discoteca-de-miraflores/"
   }
 ]
