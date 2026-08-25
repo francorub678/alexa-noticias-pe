@@ -1,37 +1,37 @@
 [
   {
     "uid": "top-pe-20260825-0",
-    "updateDate": "2026-08-25T04:26:12.0Z",
-    "titleText": "Top Perú 25/08 · Andina",
-    "mainText": "El Congreso recibió información sobre el plan de respuesta del gobierno para proteger a la población de los riesgos del fenómeno El Niño.",
-    "redirectionUrl": "https://andina.pe/agencia/noticia-congreso-recibio-informacion-sobre-plan-respuesta-ante-nino-1088982.aspx"
-  },
-  {
-    "uid": "top-pe-20260825-1",
-    "updateDate": "2026-08-25T04:26:11.0Z",
-    "titleText": "Top Perú 25/08 · RPP",
-    "mainText": "Una mujer de treinta y tres años falleció por dengue en Puerto Maldonado porque el hospital local no pudo referirla a Lima para recibir atención especializada.",
-    "redirectionUrl": "https://rpp.pe/rotafono/servicios-publicos/madre-de-dios-puerto-maldonado-adulta-con-dengue-requiere-traslado-urgente-a-un-hospital-en-lima-noticia-1703430"
-  },
-  {
-    "uid": "top-pe-20260825-2",
-    "updateDate": "2026-08-25T04:26:10.0Z",
+    "updateDate": "2026-08-25T08:26:08.0Z",
     "titleText": "Top Perú 25/08 · Gestión",
-    "mainText": "Minsur acelera el uso de inteligencia artificial en sus operaciones mineras, tecnología que ya venía implementando antes del reciente auge de la IA generativa.",
-    "redirectionUrl": "https://gestion.pe/economia/minsur-y-la-ia-se-acelera-el-uso-de-la-inteligencia-artificial-en-la-mineria-y-se-refleja-en-cambios-en-las-operaciones-de-la-compania-noticia/"
-  },
-  {
-    "uid": "top-pe-20260825-3",
-    "updateDate": "2026-08-25T04:26:09.0Z",
-    "titleText": "Top Perú 25/08 · Gestión",
-    "mainText": "El primer ministro israelí Netanyahu afirma que Irán intentó asesinar a uno de sus hijos en una entrevista con Canal 14.",
+    "mainText": "El primer ministro de Israel Netanyahu asegura que Irán intentó asesinar a uno de sus hijos según declaraciones que realizó a un medio israelí.",
     "redirectionUrl": "https://gestion.pe/mundo/internacional/netanyahu-asegura-que-iran-intento-asesinar-a-uno-de-sus-hijos-noticia/"
   },
   {
-    "uid": "top-pe-20260825-4",
-    "updateDate": "2026-08-25T04:26:08.0Z",
+    "uid": "top-pe-20260825-1",
+    "updateDate": "2026-08-25T08:26:07.0Z",
+    "titleText": "Top Perú 25/08 · Infobae Perú",
+    "mainText": "En el sorteo de Gana Diario del 24 de agosto a las 20:30 horas, se definió el ganador del premio mayor de esta lotería peruana.",
+    "redirectionUrl": "https://www.infobae.com/peru/2026/08/25/gana-diario-resultados-del-24-de-agosto-del-ultimo-sorteo/"
+  },
+  {
+    "uid": "top-pe-20260825-2",
+    "updateDate": "2026-08-25T08:26:06.0Z",
     "titleText": "Top Perú 25/08 · RPP",
-    "mainText": "Alberto Tejada critica la decisión del JEE que permite a López Aliaga postularse como regidor, argumentando que viola el espíritu de la ley electoral.",
-    "redirectionUrl": "https://rpp.pe/politica/elecciones/alberto-tejada-critica-fallo-del-jee-sobre-rafael-lopez-aliaga-no-se-honra-el-espiritu-de-la-ley-noticia-1703452"
+    "mainText": "Organización indígena demanda justicia por muerte de líder ashéninka Américo Pascual Tomisha, asesinado en Ucayali mientras defendía su territorio ancestral.",
+    "redirectionUrl": "https://rpp.pe/peru/actualidad/organizacion-indigena-exige-justicia-por-asesinato-de-lider-asheninka-defender-el-territorio-no-puede-costar-la-vida-noticia-1703462"
+  },
+  {
+    "uid": "top-pe-20260825-3",
+    "updateDate": "2026-08-25T08:26:05.0Z",
+    "titleText": "Top Perú 25/08 · Infobae Perú",
+    "mainText": "Ricardo Mendoza y Katya Mosquera se casaron en su casa con setenta y cinco invitados después de planificar su boda en solo tres semanas.",
+    "redirectionUrl": "https://www.infobae.com/peru/2026/08/24/ricardo-mendoza-y-katya-mosquera-se-casaron-en-casa-y-armaron-su-boda-en-solo-tres-semanas/"
+  },
+  {
+    "uid": "top-pe-20260825-4",
+    "updateDate": "2026-08-25T08:26:04.0Z",
+    "titleText": "Top Perú 25/08 · RPP",
+    "mainText": "Un coro de más de doscientos cantantes se prepara en Chiclayo para recibir al Papa León XIV en una ceremonia religiosa de gran importancia.",
+    "redirectionUrl": "https://rpp.pe/peru/lambayeque/coro-papal-en-chiclayo-mas-de-200-voces-ensayan-para-recibir-a-leon-xiv-noticia-1703463"
   }
 ]
