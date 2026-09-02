@@ -1,37 +1,37 @@
 [
   {
     "uid": "top-pe-20260902-0",
-    "updateDate": "2026-09-02T15:29:39.0Z",
-    "titleText": "Top Perú 02/09 · Andina",
-    "mainText": "El Reniec realizará campañas gratuitas de DNI en diferentes regiones del país hasta el seis de setiembre, ofreciendo trámites y entregas sin costo para reducir la indocumentación.",
-    "redirectionUrl": "https://andina.pe/agencia/noticia-reniec-tramita-gratis-tu-dni-conoce-donde-cuando-y-a-hora-1089999.aspx"
-  },
-  {
-    "uid": "top-pe-20260902-1",
-    "updateDate": "2026-09-02T15:29:38.0Z",
-    "titleText": "Top Perú 02/09 · RPP",
-    "mainText": "Sedapal realizará cortes de agua programados en varios distritos de Lima el dos de septiembre, afectando a diferentes horarios durante el día.",
-    "redirectionUrl": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-02-de-septiembre-distritos-y-horarios-afectados-noticia-1705139"
-  },
-  {
-    "uid": "top-pe-20260902-2",
-    "updateDate": "2026-09-02T15:29:37.0Z",
+    "updateDate": "2026-09-02T19:00:14.0Z",
     "titleText": "Top Perú 02/09 · Gestión",
-    "mainText": "Se registraron temblores en Colombia el miércoles dos de septiembre según el Servicio Geológico Colombiano, con epicentros en varias regiones del país.",
+    "mainText": "Se registraron temblores en Colombia el 2 de septiembre con información oficial del SGC sobre magnitud, hora y ubicación del epicentro en diferentes ciudades del país.",
     "redirectionUrl": "https://gestion.pe/mix/respuestas/temblor-en-colombia-en-vivo-hoy-1-y-2-de-septiembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-segun-el-sgc-nnda-nnrt-noticia/"
   },
   {
-    "uid": "top-pe-20260902-3",
-    "updateDate": "2026-09-02T15:29:36.0Z",
+    "uid": "top-pe-20260902-1",
+    "updateDate": "2026-09-02T19:00:13.0Z",
     "titleText": "Top Perú 02/09 · Gestión",
-    "mainText": "Las instituciones bancarias ofrecen notas con rendimiento del diez por ciento como alternativa de inversión dirigida a clientes con mayores ingresos.",
-    "redirectionUrl": "https://gestion.pe/tu-dinero/bancos-ahora-ofrecen-notas-que-rinden-10-como-alternativa-a-depositos-cuanto-se-invierte-noticia/"
+    "mainText": "Agrokasa aumenta producción de arándanos en el sur peruano para la temporada 2026-2027, esperando exportar 404 mil toneladas pese a los desafíos climáticos del fenómeno El Niño.",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/el-fenomeno-del-nino-golpea-al-arandano-peruano-la-jugada-de-agrokasa-con-us-24-millones-en-ica-noticia/"
+  },
+  {
+    "uid": "top-pe-20260902-2",
+    "updateDate": "2026-09-02T19:00:12.0Z",
+    "titleText": "Top Perú 02/09 · Infobae Perú",
+    "mainText": "El tenista peruano Ignacio Buse se enfrenta hoy al estadounidense Marcos Giron en la primera ronda del US Open dos mil veintiséis tras ser reprogramado por lluvia.",
+    "redirectionUrl": "https://www.infobae.com/peru/deportes/2026/09/01/ignacio-buse-vs-marcos-giron-en-vivo-hoy-punto-a-punto-partido-primera-ronda-us-open-2026-resumen-resultado/"
+  },
+  {
+    "uid": "top-pe-20260902-3",
+    "updateDate": "2026-09-02T19:00:11.0Z",
+    "titleText": "Top Perú 02/09 · Gestión",
+    "mainText": "El dólar cerró a la baja este miércoles en Perú, mientras tensiones geopolíticas y la subida del petróleo generan preocupaciones sobre inflación.",
+    "redirectionUrl": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-miercoles-2-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/"
   },
   {
     "uid": "top-pe-20260902-4",
-    "updateDate": "2026-09-02T15:29:35.0Z",
-    "titleText": "Top Perú 02/09 · Gestión",
-    "mainText": "A partir de 2027, California permitirá la caza de venados con arco en nuevas temporadas tras la firma de la ley AB 1912 por el gobernador Newsom.",
-    "redirectionUrl": "https://gestion.pe/mix/usa/newsom-ya-firmo-la-ab-1912-asi-cambian-las-reglas-para-los-cazadores-de-venados-con-arco-en-california-desde-2027-estados-unidos-nnda-nnlt-noticia/"
+    "updateDate": "2026-09-02T19:00:10.0Z",
+    "titleText": "Top Perú 02/09 · Andina",
+    "mainText": "Víctor Chino Rivera fue oficializado como nuevo entrenador de ADT de Tarma, regresando a la Liga 1 después de cuatro años sin dirigir en primera división.",
+    "redirectionUrl": "https://andina.pe/agencia/noticia-de-vuelta-a-liga-1-victor-chino-rivera-fue-oficializado-como-nuevo-entrenador-adt-1090143.aspx"
   }
 ]
