@@ -1,37 +1,37 @@
 [
   {
     "uid": "top-pe-20260919-0",
-    "updateDate": "2026-09-19T18:14:44.0Z",
-    "titleText": "Top Perú 19/09 · Gestión",
-    "mainText": "Se comparten frases y dedicatorias especiales para acompañar regalos de flores amarillas en la celebración del veintiuno de septiembre con mensajes alegres y cariñosos.",
-    "redirectionUrl": "https://gestion.pe/mix/respuestas/cien-frases-y-dedicatorias-de-flores-amarillas-para-enviar-el-21-de-septiembre-primavera-floricienta-nnda-nnni-noticia/"
+    "updateDate": "2026-09-19T21:49:27.0Z",
+    "titleText": "Top Perú 19/09 · Infobae Perú",
+    "mainText": "Perú enfrenta a Paraguay en la Copa Davis 2026, donde los paraguayos ganaron el primer punto y los peruanos buscan recuperarse en los próximos partidos.",
+    "redirectionUrl": "https://www.infobae.com/peru/deportes/2026/09/19/peru-vs-paraguay-en-vivo-hoy-punto-a-punto-ignacio-buse-juan-pablo-varillas-arklon-huertas-del-pino-dia-2-copa-davis-2026-resumen-resultado/"
   },
   {
     "uid": "top-pe-20260919-1",
-    "updateDate": "2026-09-19T18:14:43.0Z",
+    "updateDate": "2026-09-19T21:49:26.0Z",
     "titleText": "Top Perú 19/09 · Infobae Perú",
-    "mainText": "Alianza Lima enfrenta a Fluminense hoy en busca del tercer lugar en la Brasil Cup de Vóley 2026 después de perder su debut.",
-    "redirectionUrl": "https://www.infobae.com/peru/deportes/2026/09/19/alianza-lima-vs-fluminense-en-vivo-hoy-punto-a-punto-partido-tercer-lugar-brasil-cup-voley-2026-resumen-resultado/"
-  },
-  {
-    "uid": "top-pe-20260919-2",
-    "updateDate": "2026-09-19T18:14:42.0Z",
-    "titleText": "Top Perú 19/09 · RPP",
-    "mainText": "Paris FC derrotó al RC Strasbourg dos a uno con un gol en el último minuto en la Liga de Francia.",
-    "redirectionUrl": "https://rpp.pe/futbol/ligas-internacionales/liga-de-francia-rc-strasbourg-necesita-sumar-de-a-3-para-escalar-a-la-cima-noticia-1708137"
-  },
-  {
-    "uid": "top-pe-20260919-3",
-    "updateDate": "2026-09-19T18:14:41.0Z",
-    "titleText": "Top Perú 19/09 · Infobae Perú",
-    "mainText": "Sporting Cristal enfrenta hoy a Atlético Grau en busca de la victoria para mantener opciones al título del Torneo Clausura de Liga 1.",
+    "mainText": "Sporting Cristal venció tres a uno a Atlético Grau en partido del Torneo Clausura de Liga 1, manteniéndose en la lucha por el campeonato.",
     "redirectionUrl": "https://www.infobae.com/peru/deportes/2026/09/19/sporting-cristal-vs-atletico-grau-en-vivo-hoy-minuto-a-minuto-partido-fecha-10-torneo-clausura-liga-1-2026-goles-resumen-resultado/"
   },
   {
+    "uid": "top-pe-20260919-2",
+    "updateDate": "2026-09-19T21:49:25.0Z",
+    "titleText": "Top Perú 19/09 · Andina",
+    "mainText": "El Gobierno Regional de Áncash condena enérgicamente el asesinato de la candidata Susy Alonso Polo y expresa condolencias a su familia.",
+    "redirectionUrl": "https://andina.pe/agencia/noticia-gobierno-regional-ancash-condena-asesinato-candidata-susy-alonso-polo-1092501.aspx"
+  },
+  {
+    "uid": "top-pe-20260919-3",
+    "updateDate": "2026-09-19T21:49:24.0Z",
+    "titleText": "Top Perú 19/09 · Andina",
+    "mainText": "Perú se enfrentará a Venezuela en la final del Mundial de Comidas organizado por Ibai Llanos, donde el cebiche e Inca Kola competirán contra el pabellón criollo y la maltina venezolana.",
+    "redirectionUrl": "https://andina.pe/agencia/noticia-se-repite-historia-peru-y-venezuela-van-por-final-el-mundial-comidas-ibai-1092498.aspx"
+  },
+  {
     "uid": "top-pe-20260919-4",
-    "updateDate": "2026-09-19T18:14:40.0Z",
+    "updateDate": "2026-09-19T21:49:23.0Z",
     "titleText": "Top Perú 19/09 · RPP",
-    "mainText": "Roma e Inter empataron dos a dos en la Serie A italiana, con goles de Manu Koné y Lautaro Martínez que anotaron dobletes en el partido.",
-    "redirectionUrl": "https://rpp.pe/futbol/ligas-internacionales/serie-a-roma-llega-invicto-y-quiere-ser-lider-ante-inter-noticia-1708145"
+    "mainText": "Ignacio Buse enfrenta a Daniel Vallejo en vivo en el partido que podría definir la serie entre Perú y Paraguay por la Copa Davis 2026.",
+    "redirectionUrl": "https://rpp.pe/tenis/copa-davis/ignacio-buse-vs-daniel-vallejo-en-vivo-peru-vs-paraguay-a-que-hora-juegan-y-como-ver-partido-de-copa-davis-2026-via-directv-go-en-vivo-noticia-1708398"
   }
 ]
